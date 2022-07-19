@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_vince.mk
+    $(LOCAL_DIR)/twrp_vince.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_vince-user \
-    omni_vince-userdebug \
-    omni_vince-eng
+    twrp_vince-user \
+    twrp_vince-userdebug \
+    twrp_vince-eng
